@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ---
-<h2>🚨 Modules</h2>
+<h2>🚨 Modules:</h2>
 
 1. Make deposit/withdraw with official bridge
 
